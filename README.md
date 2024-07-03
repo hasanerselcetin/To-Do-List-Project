@@ -13,3 +13,5 @@ Technologies Used
 HTML: Provides the structure of the application.
 CSS: Styles the application and provides a clean and modern look.
 JavaScript: Adds interactivity to the application, enabling task management functionalities.
+
+![TO-DO2](https://github.com/hasanerselcetin/To-Do-List-Project/assets/161752534/119555c1-6172-4b9b-baa5-f0893018aefb)
